@@ -1,4 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hariprasath S=====================================================================================================================================Python and Full Stack Developer-------------------------------I've been learning to code for 1 year. I started with django, but have really found a passion for frontend development...* 🌍  I'm based in India* 🖥️  See my portfolio at [MyPortfolio](http://hprasath2306.pythonanywhere.com/)* ✉️  You can contact me at [hprasathoff935@gmail.com](mailto:hprasathoff935@gmail.com)* 🧠  I'm learning React* 🤝  I'm open to collaborating on Projects related to Python
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hariprasath S
+====================================================================================================================================
+
+Python and Full Stack Developer
+-------------------------------
+
+I've been learning to code for 1 year. I started with django, but have really found a passion for frontend development...
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [MyPortfolio](http://hprasath2306.pythonanywhere.com/)
+* ✉️  You can contact me at [hprasathoff935@gmail.com](mailto:hprasathoff935@gmail.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on Projects related to Python
 
 ### Skills
 
