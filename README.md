@@ -7,8 +7,8 @@ Python and Full Stack App Developer
 I've been learning to code for 1 year. I started with django, but have really found a passion for frontend development...
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://hprasath2306.pythonanywhere.com/)
-* ✉️  You can contact me at [hprasathoff935@gmail.com](mailto:hprasathoff935@gmail.com)
+* 🖥️  See my portfolio at [MyPortfolio](http://hprasath.vercel.app/)
+* ✉️  You can contact me at [hprasathoff@gmail.com](mailto:hprasathoff@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects related to Python
 
