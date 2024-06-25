@@ -9,8 +9,8 @@ I've been learning to code for 1 year. I started with django, but have really fo
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://hprasath.vercel.app/)
 * ✉️  You can contact me at [hprasathoff@gmail.com](mailto:hprasathoff@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects related to Python
+* 🧠  I'm learning Spring boot
+* 🤝  I'm open to collaborating on Projects related to Python, Java
 
 ### Skills 
 <p align="left">
