@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hariprasath S
 ====================================================================================================================================
 
-Full Stack Developer
+Software Developer
 -------------------------------
 
-I've been learning to code for 1 year. I started with django, but have really found a passion for frontend development...
+I've been coding from 2021. I started with app development, but have really found a passion for web development...
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://hprasath.vercel.app/)
 * ✉️  You can contact me at [hprasathoff@gmail.com](mailto:hprasathoff@gmail.com)
-* 🧠  I'm learning Spring boot
-* 🤝  I'm open to collaborating on Projects related to Python, Java
+* 🤝  I'm open to collaborating on Projects related to software development.
 
 ### Skills 
 <p align="left">
